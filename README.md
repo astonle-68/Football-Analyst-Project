@@ -10,5 +10,5 @@ Knowledged
   + sklearn
 - Tableau
 ## Football Analyst Project | [https://github.com/astonle-68/Football-Analyst-Project])
-- Pandas, Numpy, Seaborn, Sqlite3, Statistics, Scipy, Sklearn| [cleaning data, transform data, draw chart, apply machine learning on predict result](https://github.com/astonle-68/Football-Analyst-Project/blob/main/FOOTBALL_ANALYST.ipynb)
+- Pandas, Numpy, Seaborn, Sqlite3, Statistics, Scipy, Sklearn | [cleaning data, transform data, draw chart, apply machine learning on predict result](https://github.com/astonle-68/Football-Analyst-Project/blob/main/FOOTBALL_ANALYST.ipynb)
 - Tableau | [visualization](https://public.tableau.com/views/FOOTBALL_ANALYST_FINAL/Analyzethefactorsthataffectmatchresult?:language=en&:display_count=y&:origin=viz_share_link)
